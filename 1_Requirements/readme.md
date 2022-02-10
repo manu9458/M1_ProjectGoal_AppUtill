@@ -1,5 +1,5 @@
 
-#Requirements
+# Requirements
 
 
 Introduction:
@@ -15,4 +15,5 @@ The Key features of quiz are: 1.Participate in quiz 2.View the result 3.Exit
 2.Visual studio Code
 
 
+# SWOT Analysis:
 

@@ -37,7 +37,20 @@ There is no time limit.
 
 ## 4W's and 1H
 
+# Who
+Any user who are intersted can take the quiz and enjoy the quiz.
 
+# What
+The project is main aim is to anyone participate in the quiz.
+
+# When
+Students are actively participate because the quiz is based on c language.
+
+# Why
+The project is mainly about students to get more knowledge on c.
+
+# How
+The user can take the quiz by entering his name
 
 
 

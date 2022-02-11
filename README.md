@@ -8,3 +8,7 @@
 ## Codacy
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/5cda890f389d4f18a7a962cb02e85312)]()
+
+## WorkFlow
+
+[![Manual workflow](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/manual.yml/badge.svg)](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/manual.yml)

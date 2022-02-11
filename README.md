@@ -14,6 +14,4 @@
 [![Manual workflow](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/manual.yml/badge.svg)](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/manual.yml)
 
 
-## Build
 
-![GitHub Workflow Status](https://img.shields.io/github/workflow/status/dwyl/auth_plug/Elixir%20CI?label=build&style=flat-square)

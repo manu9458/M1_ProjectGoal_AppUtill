@@ -14,15 +14,19 @@ The Key features of quiz are: 1.Participate in quiz 2.View the result 3.Exit
 
 # SWOT Analysis:
 - Strength
+- 
 It is user friendly where user can activly participate.
 
 - Weakness
+- 
 There is no efficient algorithm to perform code.
 
 - Opportunities
+- 
 User can grab the Opportunity to get high marks.
 
 - Threat
+- 
 There is no time limit.
 
 

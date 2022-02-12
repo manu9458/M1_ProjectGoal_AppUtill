@@ -1,5 +1,9 @@
 # M1_ProjectGoal_AppUtill
 
+# Introduction
+This is a quiz system in C language. To Enter in the main game firstly you have to clear 3 warm up question in the starting Then you will Enter in the Main game.
+Which Having 10 MCQ question.
+
 ## Codiga
 
 [![MIT License](https://api.codiga.io/project/31027/score/svg)]()

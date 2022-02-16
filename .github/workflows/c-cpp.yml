@@ -1,0 +1,23 @@
+name: C/C++ CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: windows-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: build
+      run: gcc hello.c -o hello
+    - name: make
+      run: ./hello
+    - name: make check
+      run: make run
+    - name: make distcheck
+      run: make distcheck

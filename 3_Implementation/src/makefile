@@ -1,8 +1,8 @@
 build: cquizgame.c quizgame.h
-   gcc cquizgame.c -o quizgame.out
+   gcc cquizgame.c -o quizgame
 
 run: build
-   ./quizgame.out
+   ./quizgame
 
 clean:
-   rm quizgame.out
+   rm quizgame

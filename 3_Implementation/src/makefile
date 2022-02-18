@@ -1,5 +1,5 @@
-build: cquizgame.c quizgame.h
-   gcc cquizgame.c -o quizgame
+build: main.c cquizgame.c quizgame.h
+   gcc main.c cquizgame.c -o quizgame
 
 run: build
    ./quizgame

@@ -7,7 +7,7 @@
 
 int main()
      {
-     int trueQuesCount,gameQuesChanger,quesChangerToInGame,count,quesChangerLoopInput,n;
+     int trueQuesCount,gameQuesChanger,quesChangerToInGame,count,quesChangerLoopInput;
      float score;
      char choice;
      char gambler[20];

@@ -1,8 +1,10 @@
-build: main.c cquizgame.c quizgame.h
-   gcc main.c cquizgame.c -o quizgame
+SRC = main.c cquizgame.c 
+INC = quizgame.h
+build : $(SRC) $(INC)
+   gcc $(SRC) -o run
 
 run: build
-   ./quizgame
+   ./run
 
 clean:
-   rm quizgame
+   rm run

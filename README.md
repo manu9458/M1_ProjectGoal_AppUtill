@@ -3,7 +3,7 @@
 # Introduction
 
 **This is a quiz system in C language. To Enter in the main game firstly you have to clear 3 warm up question in the starting Then you will Enter in the Main game.
-Which Having 10 MCQ question.**
+Which Having 10 MCQ question. According to your correct MCQ you will get a score.**
 
 ## Codiga
 

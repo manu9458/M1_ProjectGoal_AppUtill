@@ -17,5 +17,3 @@ jobs:
       run: sudo apt -y install cppcheck
     - name: Run cppcheck
       run: cppcheck 3_Implementation
-    - name: make distcheck
-      run: make distcheck

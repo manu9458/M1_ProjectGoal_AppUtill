@@ -1,3 +1,13 @@
+/**
+ * @file main.c
+ * @author MANU PRATAP SINGH
+ * @brief QUIZGAME
+ * @version 0.1
+ * @date 2022-02-19
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ */
 #include<stdio.h>
 #include<conio.h>
 #include<ctype.h>

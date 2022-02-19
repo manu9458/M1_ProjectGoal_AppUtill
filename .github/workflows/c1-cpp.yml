@@ -1,0 +1,23 @@
+name: C/C++ CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Install CPPCheck
+      run: sudo apt -y install cppcheck
+    - name: make
+      run: make
+    - name: Run cppcheck
+      run: cppcheck 3_Implementation
+    - name: make distcheck
+      run: make distcheck

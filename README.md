@@ -18,6 +18,6 @@ Which Having 10 MCQ question. According to your correct MCQ you will get a score
 
 [![Manual workflow](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/manual.yml/badge.svg)](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/manual.yml)
 
-## CI
+## Build
 
 [![C/C++ CI](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/c1-cpp.yml/badge.svg)](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/c1-cpp.yml)

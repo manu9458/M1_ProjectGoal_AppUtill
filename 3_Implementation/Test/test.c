@@ -1,6 +1,5 @@
-#include "fun.h"
-#include "unity.h"
-#include "struct.h"
+#include "inc/quizgame.h"
+#include "Unity/unity.h"
 
 void test_searchrecords(void);
 

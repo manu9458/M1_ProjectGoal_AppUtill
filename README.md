@@ -5,6 +5,16 @@
 **This is a quiz system in C language. To Enter in the main game firstly you have to clear 3 warm up question in the starting Then you will Enter in the Main game.
 Which Having 10 MCQ question. According to your correct MCQ you will get a score.**
 
+| Folder | Structure | 
+| -----------| --------------- | 
+| **0**_Certificates | All Certificates are here | 
+| **1**_Requirement |All Requirement are here|
+|**2**_Architecture| Structure of code is here| 
+|**3**_3_Implementation|Coding part is here|
+|**4**_TestPlanAndOutput| Test plan is here|
+|**5**_Images and Videos| all Images of output is here |
+|**6**_Report| Here is my Report|
+
 ## Codiga
 
 [![MIT License](https://api.codiga.io/project/31027/score/svg)]()

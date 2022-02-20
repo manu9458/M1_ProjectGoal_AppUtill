@@ -21,3 +21,7 @@ Which Having 10 MCQ question. According to your correct MCQ you will get a score
 ## Build
 
 [![C/C++ CI](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/c1-cpp.yml/badge.svg)](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/c1-cpp.yml)
+
+## Unit Testing
+
+[![UnitTesting](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/c-cpp1.yml)

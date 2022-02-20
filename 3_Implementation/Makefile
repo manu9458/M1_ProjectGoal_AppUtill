@@ -1,11 +1,12 @@
-SRC = main.c cquizgame.c 
-INC = quizgame.h
 
-build: $(SRC) $(INC)
-   gcc $(SRC) -o run
+SRC = main.c\
+src/cquizgame.c
+INC = inc
+run1 : $(SRC) 
+	gcc $^ -I$(INC) -o $@
 
-run: build
-   ./run
+run : run1
+	./run1
 
 clean:
-   rm run
+	rm run1

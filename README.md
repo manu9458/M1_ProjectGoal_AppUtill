@@ -32,10 +32,14 @@ Which Having 10 MCQ question. According to your correct MCQ you will get a score
 
 
 
+
+
 | Codiga | Codacy    | Build               |   Unit Testing         |
-| :-------- | :------- | :------------------------- | -----------|
+| :-------- | :------- | :-------------------------: | :-----------:|
 | [![MIT License](https://api.codiga.io/project/31027/score/svg)]()|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/5cda890f389d4f18a7a962cb02e85312)]()| [![C/C++ CI](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/c1-cpp.yml/badge.svg)](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/c1-cpp.yml)||[![UnitTesting](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/c-cpp1.yml/badge.svg)](https://github.com/manu9458/M1_ProjectGoal_AppUtill/actions/workflows/c-cpp1.yml)|
 [![GPLv3 License](https://api.codiga.io/project/31027/status/svg)]() |  |  ||
+
+
 
 
 

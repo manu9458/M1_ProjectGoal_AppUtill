@@ -14,4 +14,4 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: gcc
-      run: gcc -C 3_Implementation/ test
+      run: gcc -C 3_Implementation/ Test

@@ -23,7 +23,7 @@ int main()
 
 void test_searchrecords(void)
 {
-    char smartcardnumber[20]="KHY123456";
-    TEST_ASSERT_EQUAL("KHY123456", smartcardnumber);
+    char name[20]="Manu";
+    TEST_ASSERT_EQUAL("Manu", name);
    
 }

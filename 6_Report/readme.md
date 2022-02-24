@@ -13,9 +13,13 @@
 # Interface
 
 
-
+1-When we will run The program
 
 ![App Screenshot](https://github.com/manu9458/M1_ProjectGoal_AppUtill/blob/main/5_Images%20and%20Videos/game.png)
 
+
+2- When we Will start the game with S 
+
+![App Screenshot](https://github.com/manu9458/M1_ProjectGoal_AppUtill/blob/main/5_Images%20and%20Videos/1.png)
 
 

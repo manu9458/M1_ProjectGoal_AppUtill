@@ -9,5 +9,5 @@
                  2- You can see thair score according to them you will get rupees in this game.
                  3- Make file and Multi file.
             
-# Interface
+
 
